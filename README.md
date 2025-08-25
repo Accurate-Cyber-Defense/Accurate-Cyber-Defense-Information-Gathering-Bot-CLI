@@ -21,4 +21,4 @@ cd Accurate-Cyber-Defense/Accurate-Cyber-Defense-Information-Gathering-Bot-CLI
 
 **How to run**
 
-python Accurate-Cyber-Defense/Accurate-Cyber-Defense-Information-Gathering-Bot-CLI.py 
+python Accurate-Cyber-Defense-Information-Gathering-Bot-CLI.py 
