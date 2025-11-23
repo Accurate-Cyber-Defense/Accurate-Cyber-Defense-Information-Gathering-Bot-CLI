@@ -13,12 +13,14 @@ Designed to be cross-platform and resource-efficient, the CLI bot operates seaml
 
 The Accurate Cyber Defense Information Gathering Bot is more than a scanner—it is a defensive intelligence companion, ensuring proactive detection, stronger resilience, and accurate insights for modern cybersecurity operations.
 
-**How to clone the repo**
-
+## How to clone the repo**
+```bash
 git clone https://github.com/Accurate-Cyber-Defense/Accurate-Cyber-Defense-Information-Gathering-Bot-CLI.git
 
 cd Accurate-Cyber-Defense/Accurate-Cyber-Defense-Information-Gathering-Bot-CLI
+```
 
-**How to run**
-
+## How to run
+```bash
 python Accurate-Cyber-Defense-Information-Gathering-Bot-CLI.py 
+```
